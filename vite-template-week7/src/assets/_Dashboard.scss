@@ -1,0 +1,28 @@
+// 後台樣式
+.navbar-brand {
+  font-size: 22px;
+}
+.admin-link {
+  color: $gray-500;
+  font-size: 18px;
+  &:hover {
+    color: #fff;
+  }
+  
+}
+
+.admin-block {
+  &:hover {
+    // 游標顯示區塊
+    background-color: $gray-800;
+    border-radius: 4px;
+  }
+  }
+
+.active a{
+  color: #fff;
+}
+// 使用兩個 html 標籤 點擊當下也會是白色的
+.admin-block.active .nav-link {
+  color: #fff;
+}
