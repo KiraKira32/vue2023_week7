@@ -1,0 +1,1 @@
+import{_ as c,o as s,c as t,a as e}from"./index-c66b7115.js";const o={},n={class:"container"},a=e("div",{class:"mt-4"},[e("h4",null," 文章管理 ")],-1),_=[a];function r(i,d){return s(),t("div",n,_)}const f=c(o,[["render",r]]);export{f as default};

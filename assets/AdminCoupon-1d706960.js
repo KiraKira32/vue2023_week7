@@ -1,0 +1,1 @@
+import{_ as o,o as s,c,a as e}from"./index-c66b7115.js";const t={},n={class:"container"},a=e("div",{class:"mt-4"},[e("h4",null," 優惠卷 ")],-1),_=[a];function r(d,i){return s(),c("div",n,_)}const f=o(t,[["render",r]]);export{f as default};
